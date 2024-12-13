@@ -37,7 +37,7 @@ Required to:
     - Folder "Workfiles" contains notebooks by students with the models tested
     
 
-## Technology used
+## Technology used & requirements
 
 - Python 3
 
